@@ -1,0 +1,10 @@
+body{
+  background:gray
+}
+
+.preview{
+  background:white;
+}
+textarea, .preview{
+  min-height: 400px;
+}
